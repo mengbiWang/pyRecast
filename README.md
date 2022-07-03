@@ -1,1 +1,2 @@
 # pyRecast
+navmesh数据生成的python实现，参考recastNavigation库
